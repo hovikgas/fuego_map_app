@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+sqlite3
+urllib
+plotly
+mpl_toolkits
